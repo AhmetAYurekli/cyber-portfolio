@@ -4,7 +4,7 @@ IT Resource at Ensign Services, California.
 Sec+ certified (2023). Targeting Incident Response
 
 ## Certifications
-[![Security+]
+[Security+]
 
 ## Skills
 - EDR/SIEM (CrowdStrike)
